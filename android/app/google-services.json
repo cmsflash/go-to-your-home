@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588711309496",
+    "project_id": "go-to-your-home",
+    "storage_bucket": "go-to-your-home.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588711309496:android:48fe2831f2ebad4a9d044d",
+        "android_client_info": {
+          "package_name": "com.example.go_to_your_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbD2w4PPHxeH_ZcVsij13wHGqZCuFtxHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
